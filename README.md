@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer, always experimenting w
 - 💻 Full-stack developer | JavaScript, Node.js, React, Python
 - 🌱 Learning AI & Machine Learning
 - 👾 Gaming enthusiast & meme lover
-- 📫 Reach me at: [email@example.com](mailto:email@example.com)
+- 📫 Reach me at: [kevineniyomurinzi@gmail.com](mailto:kevineniyomurinzi@gmail.com)
 
 ## 🛠️ Tech Stack
 
@@ -28,7 +28,9 @@ Welcome to my GitHub profile! I'm a passionate developer, always experimenting w
 <p align="center">
   <img src="https://media.giphy.com/media/3o6gbbuLW76jkt8vIc/giphy.gif" width="200" alt="funny">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="funny2">
-</p>
+</p
+
+<h1>If You Failed It You Did It!!</h1>
 
 
 
