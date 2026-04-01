@@ -1,4 +1,6 @@
-![My Instagram Image](https://www.instagram.com/p/DWjaGLZCNlh/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+<p align="center">
+  <img src="logo.png" alt="Logo" width="200"/>
+</p>
 # Hi there! 👋 I'm KEVIN CODER
 
 Welcome to my GitHub profile! I'm a passionate developer, always experimenting with new tech, building cool projects, and having a bit of fun along the way 😎.
