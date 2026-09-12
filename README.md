@@ -17,9 +17,9 @@
 <a href="https://github.com/Kevin-The-Cyber-Coder"><img src="https://img.shields.io/badge/GitHub-Kevin--The--Cyber--Coder-0d1117?style=for-the-badge&logo=github&logoColor=00ff9c" alt="GitHub"/></a>
 <a href="mailto:mukeshimanakevin20@gmail.com"><img src="https://img.shields.io/badge/Email-mukeshimanakevin20%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c" alt="Email"/></a>
 <!-- CUSTOMIZE: LinkedIn -->
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c" alt="LinkedIn"/></a>
+<a href="https://linkedin.com/in/KevinDevTeamPK"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c" alt="LinkedIn"/></a>
 <!-- CUSTOMIZE: Portfolio -->
-<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff9c" alt="Portfolio"/></a>
+<a href="https://Kevin.dev j"><img src="https://img.shields.io/badge/Portfolio-Visit-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff9c" alt="Portfolio"/></a>
 
 <br/><br/>
 
@@ -200,16 +200,16 @@ Building:
 <tr>
 <td width="50%">
 
-**[Project 01](https://github.com/Kevin-The-Cyber-Coder/YOUR_REPO_01)**
-<br/>Short one-line description of the project.
+**[Smart Kigalu](https://github.com/Kevin-The-Cyber-Coder/Smart-Kigali.git)**
+<br/>Smart City Reporting App
 <br/><br/>
 `Java` `Spring` `SQL`
 
 </td>
 <td width="50%">
 
-**[Project 02](https://github.com/Kevin-The-Cyber-Coder/YOUR_REPO_02)**
-<br/>Short one-line description of the project.
+**[School Management System](https://github.com/Kevin-The-Cyber-Coder/SMS.git)**
+<br/>School Data Management System.
 <br/><br/>
 `C++` `Unreal Engine`
 
@@ -218,16 +218,16 @@ Building:
 <tr>
 <td width="50%">
 
-**[Project 03](https://github.com/Kevin-The-Cyber-Coder/YOUR_REPO_03)**
-<br/>Short one-line description of the project.
+**[HingaFresh](https://github.com/Kevin-The-Cyber-Coder/HingaFresh.git)**
+<br/>Modern Agriculture With Modern Technologies.
 <br/><br/>
 `TypeScript` `React` `Node.js`
 
 </td>
 <td width="50%">
 
-**[Project 04](https://github.com/Kevin-The-Cyber-Coder/YOUR_REPO_04)**
-<br/>Short one-line description of the project.
+**[ChatBookApp](https://github.com/Kevin-The-Cyber-Coder/YOUR_REPO_04)**
+<br/>Social Media Connection Application.
 <br/><br/>
 `Kotlin` `Android`
 
@@ -243,14 +243,14 @@ Building:
 
 <a href="https://github.com/Kevin-The-Cyber-Coder"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <!-- CUSTOMIZE: LinkedIn -->
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://linkedin.com/in/KevinDevTeamPK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:mukeshimanakevin20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <!-- CUSTOMIZE: Portfolio -->
-<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://Kevin.Dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <!-- CUSTOMIZE: X/Twitter -->
-<a href="https://x.com/YOUR_TWITTER_USERNAME"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter"/></a>
+<a href="https://x.com/KevinDevTeamPK"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter"/></a>
 <!-- CUSTOMIZE: Discord -->
-<a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+<a href="https://discord.com/users/Kevincoder250"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 
 </div>
 
